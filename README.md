@@ -1,2 +1,4 @@
 # python_datascience_intro
-Intro_to_python_and_datascience
+
+
+Introduction to Economic Modeling and Data Science
